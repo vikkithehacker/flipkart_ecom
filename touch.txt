@@ -1,1 +1,2 @@
-hey all we are working on stash
+stassh 1: hey all we are working on stash
+stassh2: we are working on git stash with conflict
